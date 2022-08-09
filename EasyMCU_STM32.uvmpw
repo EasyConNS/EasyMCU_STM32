@@ -8,14 +8,16 @@
   <WorkspaceName>WorkSpace</WorkspaceName>
 
   <project>
-    <PathAndName>.\EasyMCU_STM32F103C6T6\MDK-ARM\EasyConSTM32.uvprojx</PathAndName>
-    <NodeIsExpanded>1</NodeIsExpanded>
+    <PathAndName>.\EasyMCU_STM32F103C6T6\MDK-ARM\EasyMCU_STM32F103C6T6.uvprojx</PathAndName>
+    <NodeIsActive>1</NodeIsActive>
   </project>
 
   <project>
-    <PathAndName>.\EasyMCU_STM32F103C8T6\MDK-ARM\EasyConSTM32.uvprojx</PathAndName>
-    <NodeIsActive>1</NodeIsActive>
-    <NodeIsExpanded>1</NodeIsExpanded>
+    <PathAndName>.\EasyMCU_STM32F103C8T6\MDK-ARM\EasyMCU_STM32F103C8T6.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\EasyMCU_STM32F401CCU6\MDK-ARM\EasyMCU_STM32F401CCU6.uvprojx</PathAndName>
   </project>
 
 </ProjectWorkspace>
