@@ -1,0 +1,12 @@
+[submodule "EasyMCU_STM32F411CEU6"]
+	path = EasyMCU_STM32F411CEU6
+	url = https://github.com/EasyConNS/EasyMCU_STM32F411CEU6.git
+[submodule "EasyMCU_STM32F401CCU6"]
+	path = EasyMCU_STM32F401CCU6
+	url = https://github.com/EasyConNS/EasyMCU_STM32F401CCU6
+[submodule "EasyMCU_STM32F103C6T6"]
+	path = EasyMCU_STM32F103C6T6
+	url = https://github.com/EasyConNS/EasyMCU_STM32F103C6T6
+[submodule "EasyMCU_STM32F103C8T6"]
+	path = EasyMCU_STM32F103C8T6
+	url = https://github.com/EasyConNS/EasyMCU_STM32F103C8T6.git
