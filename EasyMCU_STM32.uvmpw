@@ -18,6 +18,7 @@
 
   <project>
     <PathAndName>.\EasyMCU_STM32F401CCU6\MDK-ARM\EasyMCU_STM32F401CCU6.uvprojx</PathAndName>
+    <NodeIsExpanded>1</NodeIsExpanded>
   </project>
 
 </ProjectWorkspace>
