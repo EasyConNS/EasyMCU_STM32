@@ -15,7 +15,7 @@
 #define STICK_CENTER 128
 #define STICK_MAX 255
 
-#define ECHO_INTERVAL 8
+#define ECHO_INTERVAL 9
 
 // Type Defines
 // Enumeration for joystick buttons.
