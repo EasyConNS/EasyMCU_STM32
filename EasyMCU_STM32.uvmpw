@@ -9,6 +9,7 @@
 
   <project>
     <PathAndName>.\EasyMCU_STM32F103C6T6\MDK-ARM\EasyMCU_STM32F103C6T6.uvprojx</PathAndName>
+    <NodeIsActive>1</NodeIsActive>
   </project>
 
   <project>
@@ -21,7 +22,6 @@
 
   <project>
     <PathAndName>.\EasyMCU_STM32F411CEU6\MDK-ARM\EasyMCU_STM32F411CEU6.uvprojx</PathAndName>
-    <NodeIsActive>1</NodeIsActive>
   </project>
 
 </ProjectWorkspace>
